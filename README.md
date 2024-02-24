@@ -1,6 +1,6 @@
 # Space Invaders
 
-![Space Invaders Logo](https://raw.githubusercontent.com/UtkarshNigam2401/Space-Invaders/main/assets/images/logo.png)
+![Space Invaders Logo](ufo.png)
 
 Space Invaders is a simple Python game where players must defend against invading space ships by shooting them down. The objective is to survive for as long as possible while earning points for each space ship destroyed. However, if any space ship strikes the player's line, the game is over.
 
